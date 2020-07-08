@@ -4,4 +4,5 @@ A Morse code translator and decoder in python. Warning: This will not work on an
 # Dependencies
 This project only has 1 external dependency and it is on optional one.
 * pyttsx3 ```pip install pyttsx3==2.6```
+
 I have included a requirements.txt for easy installation
